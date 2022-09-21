@@ -6,6 +6,9 @@ ruby "3.0.4"
 # Add authentication
 gem "devise"
 
+# Permissions
+gem 'cancancan'
+
 # Add rails admin
 gem 'rails_admin', '~> 3.0'
 
